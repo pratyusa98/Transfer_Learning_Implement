@@ -5,10 +5,10 @@ Transfer_Learning_Implement
 
 ### here i am upload all implement code for TransferLearning
 
-    1. Simple CNN
-    2. ResNte50
-    3. MobileNet
-    4. InceptionResNet
-    5. VGG16
+    1. Simple CNN (Dataset:- https://dphi.tech/challenges/data-sprint-25-flower-recognition/61/overview/about)
+    2. ResNte50 (Dataset:- https://dphi.tech/challenges/data-sprint-22-concrete-crack-image-classification/58/overview/about)
+    3. MobileNet (Dataset:- Catvsdog)
+    4. InceptionResNet (Dataset:- https://dphi.tech/challenges/data-sprint-18-food-recognition/53/overview/about)
+    5. VGG16 (Dataset:- https://dphi.tech/challenges/data-sprint-31-breast-cancer-detection/75/overview/about)
 
 ### Please Like And Fork This Repo.
